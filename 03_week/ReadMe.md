@@ -45,3 +45,5 @@ https://www.linkedin.com/in/zartashiaafzal/
 # Github Repo Link: https://github.com/zartashiafzal/Fine_tuning_GenAI_models
 
 # Practice of Session 2 by Me (UMAIR AZMAT):
+
+https://colab.research.google.com/drive/1oxnfudsivbkEpb_Jp7CUev8PhazHUNaQ?usp=sharing
