@@ -66,3 +66,5 @@ https://colab.research.google.com/drive/1sJ-TpNZYIFpWAjEB2RH1NB2KEW7kGXrK?usp=sh
 https://docs.google.com/presentation/d/1--ieTLA8-uLp5SMYVeCCg6vpUaIscv2WqA2NtBpwK7o/edit#slide=id.g2d4c8dc2c5d_2_0
 
 # Practice of Session 2 by Me (UMAIR AZMAT):
+
+https://huggingface.co/spaces/umairazmat/video-summarize
