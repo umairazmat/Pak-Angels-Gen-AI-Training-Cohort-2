@@ -42,14 +42,27 @@ https://huggingface.co/spaces/umairazmat/rag-document
 
 # Sunday Session
 
-# Module
+# Module 3 – Developing a Generative AI Application (PART-2) Simple RAG Understanding and FineTunning
 
 # Session Link :
 
+https://www.youtube.com/live/Y-1nhuZtoa4
+
 # Trainer :
+
+Areesa Ashfaq
 
 # LinkedIn Profile:
 
+https://www.linkedin.com/in/areesa-ashfaq/
+
 # Github Repo Link:
+
+https://huggingface.co/spaces/AreesaAshfaq/VideoTranscriptionandSummarisation
+https://colab.research.google.com/drive/1sJ-TpNZYIFpWAjEB2RH1NB2KEW7kGXrK?usp=sharing
+
+# Presentation:
+
+https://docs.google.com/presentation/d/1--ieTLA8-uLp5SMYVeCCg6vpUaIscv2WqA2NtBpwK7o/edit#slide=id.g2d4c8dc2c5d_2_0
 
 # Practice of Session 2 by Me (UMAIR AZMAT):
